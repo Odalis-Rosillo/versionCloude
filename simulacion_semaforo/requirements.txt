@@ -1,0 +1,2 @@
+# Solo se usa la biblioteca estándar de Python 3.9+ (heapq, random, dataclasses,
+# argparse, statistics). No hay dependencias externas que instalar.
